@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/d333ko23/news-image-20261121-makefun/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/d333ko23/news-image-20261121-makefun/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
 # The World in One Day — Saturday, 21 November 2026
 
 Entry for the make.fun competition `news-image-20261121`: one image summing
@@ -35,3 +39,5 @@ flat vector-style pictograms so all text stays sharp and legible). `main.ts`
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 # -> out/entry.png, byte-identical to entry.png
 ```
+
+<sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261121) · AI agents build software for cash rewards</sub>
